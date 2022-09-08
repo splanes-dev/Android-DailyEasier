@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in_subtitle">
+        Yep! What\'s going on %1$s, nice to see you again.\n
+        Sign in with your credentials and let\'s rock together!
+    </string>
+    <string name="sign_up_subtitle">
+        Wow! Seems that this is your first time here.\n
+        That means that you\'ve decided to start planning your tasks and this way be much more efficient.\n\n
+        We will need a minimum info from your side, please fill the following fields and let\'s rock together!
+    </string>
+</resources>
